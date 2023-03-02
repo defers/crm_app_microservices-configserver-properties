@@ -1,2 +1,9 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: ${EUREKA_URI:http://localhost:3502/eureka}
+  instance:
+    preferIpAddress: true
+    
 customers:
   value: 10
