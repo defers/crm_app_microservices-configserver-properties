@@ -1,2 +1,6 @@
 customers:
   test: Yo12345
+app:
+  data:
+    default-page-number: 0
+    default-number-on-page: 20
