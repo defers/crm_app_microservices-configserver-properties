@@ -1,2 +1,6 @@
 ordrers:
   orderid: 789
+app:
+  data:
+    default-page-number: 0
+    default-number-on-page: 20
